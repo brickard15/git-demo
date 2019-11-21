@@ -9,8 +9,8 @@ class App
     public static void BeforeStart(){
         System.out.println("Before Start");
     }
-  
+    
     public static void GoodBye(){
-        System.out.println("Goodbye");
+        System.out.println("Goodbye, World");
     }
 } 
