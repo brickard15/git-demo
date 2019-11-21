@@ -2,6 +2,7 @@ class App
 { 
     public static void main(String args[]) 
     { 
+        BeforeStart();
         System.out.println("Hello, World"); 
     } 
     
